@@ -1,0 +1,4 @@
+perbandingan,selisih_rerata_F1,p_wilcoxon,n_konfigurasi_A_lebih_baik
+IIR vs FIR (hop 50%),0.0010007506609685487,0.03533935546875,13
+IIR vs tanpa filter (hop 50%),-0.008228850710572859,6.103515625e-05,0
+hop 50% vs hop 75% (IIR),-0.0006472353483036652,0.072998046875,5

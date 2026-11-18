@@ -1,0 +1,56 @@
+{
+  "python": "3.12.3",
+  "numpy": "2.5.4",
+  "scipy": "1.18.1",
+  "librosa": "1.0.1",
+  "sklearn": "1.9.1",
+  "target_sr": 22050,
+  "preemph": 0.97,
+  "bandpass": [
+    1000,
+    10000
+  ],
+  "max_dur": 3.0,
+  "jobs": 1,
+  "fir_taps": 129,
+  "win_sizes": [
+    256,
+    512,
+    1024,
+    2048
+  ],
+  "win_types": [
+    "boxcar",
+    "hann",
+    "hamming",
+    "blackman"
+  ],
+  "hop_ratio": 0.5,
+  "folds": 5,
+  "seeds": [
+    0,
+    1,
+    2
+  ],
+  "global_seed": 42,
+  "sub_train": null,
+  "sub_test": null,
+  "merge6": false,
+  "classes": [
+    "Common_waxbill",
+    "Noise",
+    "Other_Birds",
+    "RedBilledQuelea",
+    "VillageWeaver",
+    "Yellow-fronted Canary"
+  ],
+  "n_train": 6799,
+  "n_test": 1713,
+  "best_config": "blackman_256",
+  "svm": {
+    "kernel": "rbf",
+    "C": 10,
+    "gamma": "scale",
+    "class_weight": "balanced"
+  }
+}
