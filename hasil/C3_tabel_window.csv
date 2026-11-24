@@ -1,0 +1,5 @@
+window,Peak sidelobe (dB),Main lobe null-ke-null (bin),Lebar -3 dB (bin)
+Rectangular,-13.26,2.0,0.91
+Hann,-31.47,4.0,1.47
+Hamming,-42.67,4.0,1.31
+Blackman,-58.11,6.0,1.66

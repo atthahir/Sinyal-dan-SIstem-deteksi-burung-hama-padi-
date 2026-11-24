@@ -1,0 +1,6 @@
+skema,blok,chi2,p_friedman,kendall_W,terbaik,terburuk,rerata_peringkat_N256,rerata_peringkat_N512,rerata_peringkat_N1024,rerata_peringkat_N2048
+semua blok (15 blok),15,94.23,1.601128616341113e-13,0.419,blackman_256,boxcar_2048,5.8,6.07,9.28,12.85
+seed 0 saja,5,37.7,0.0009988152310750533,0.503,blackman_256,boxcar_2048,5.0,7.0,9.25,12.75
+seed 1 saja,5,40.2,0.0004230131496568784,0.536,blackman_512,hamming_2048,6.95,4.75,8.65,13.65
+seed 2 saja,5,28.66,0.017769554640186026,0.382,boxcar_256,boxcar_2048,5.45,6.45,9.95,12.15
+rerata seed per fold,5,55.91,1.2569043992781063e-06,0.745,hann_256,boxcar_2048,4.55,5.4,10.0,14.05

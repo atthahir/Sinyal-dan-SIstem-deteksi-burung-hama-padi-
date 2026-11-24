@@ -1,0 +1,19 @@
+label,seed,fold0,fold1,fold2,fold3,fold4
+Common_waxbill,0,121,120,120,120,120
+Noise,0,318,319,318,318,318
+Other_Birds,0,400,400,400,400,400
+RedBilledQuelea,0,200,200,200,200,200
+VillageWeaver,0,175,175,176,175,175
+Yellow-fronted Canary,0,146,146,146,147,146
+Common_waxbill,1,121,120,120,120,120
+Noise,1,318,319,318,318,318
+Other_Birds,1,400,400,400,400,400
+RedBilledQuelea,1,200,200,200,200,200
+VillageWeaver,1,175,175,176,175,175
+Yellow-fronted Canary,1,146,146,146,147,146
+Common_waxbill,2,121,120,120,120,120
+Noise,2,318,319,318,318,318
+Other_Birds,2,400,400,400,400,400
+RedBilledQuelea,2,200,200,200,200,200
+VillageWeaver,2,175,175,176,175,175
+Yellow-fronted Canary,2,146,146,146,147,146

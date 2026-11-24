@@ -1,0 +1,17 @@
+key,rerata_peringkat,selisih_peringkat_vs_terbaik,melebihi_CD,rerata_macroF1,selisih_macroF1_vs_terbaik,p_nemenyi_vs_terbaik
+blackman_256,5.53,0.0,False,0.9704,0.0,1.0
+hamming_256,5.6,0.07,False,0.9708,0.0004,1.0
+hann_256,5.6,0.07,False,0.9707,0.0003,1.0
+hamming_512,5.73,0.2,False,0.9707,0.0002,1.0
+blackman_512,5.87,0.33,False,0.9703,-0.0001,1.0
+hann_512,6.27,0.73,False,0.97,-0.0004,1.0
+boxcar_512,6.4,0.87,False,0.9708,0.0004,1.0
+boxcar_256,6.47,0.93,False,0.9702,-0.0002,1.0
+hamming_1024,7.13,1.6,False,0.9692,-0.0012,0.9999
+boxcar_1024,8.93,3.4,False,0.9678,-0.0026,0.8494
+hann_1024,10.13,4.6,False,0.9668,-0.0036,0.3662
+blackman_1024,10.93,5.4,False,0.966,-0.0044,0.128
+blackman_2048,12.27,6.73,True,0.9652,-0.0053,0.0104
+hamming_2048,12.33,6.8,True,0.9649,-0.0056,0.009
+hann_2048,12.67,7.13,True,0.965,-0.0054,0.0042
+boxcar_2048,14.13,8.6,True,0.9629,-0.0076,0.0001

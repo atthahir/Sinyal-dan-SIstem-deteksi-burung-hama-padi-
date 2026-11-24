@@ -1,0 +1,17 @@
+window,N,ms_per_klip,frame,ukuran_melspec(64xframe),dim_fitur_SVM
+Rectangular,256,4.73,517,33088,52
+Hann,256,4.94,517,33088,52
+Hamming,256,4.14,517,33088,52
+Blackman,256,4.08,517,33088,52
+Rectangular,512,3.81,259,16576,52
+Hann,512,3.67,259,16576,52
+Hamming,512,3.92,259,16576,52
+Blackman,512,4.14,259,16576,52
+Rectangular,1024,3.32,130,8320,52
+Hann,1024,3.44,130,8320,52
+Hamming,1024,3.55,130,8320,52
+Blackman,1024,3.46,130,8320,52
+Rectangular,2048,3.76,65,4160,52
+Hann,2048,3.47,65,4160,52
+Hamming,2048,3.26,65,4160,52
+Blackman,2048,3.23,65,4160,52

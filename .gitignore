@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Datasets (Audio files ~2.4GB, exceeding GitHub storage limits)
+training/
+testing/
+info.labels
+
+# Feature extraction binary cache files (large NumPy arrays)
+hasil/*.npz
+*.npz
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
